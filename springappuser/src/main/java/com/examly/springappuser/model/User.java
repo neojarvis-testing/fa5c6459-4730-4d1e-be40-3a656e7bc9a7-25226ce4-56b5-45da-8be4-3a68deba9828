@@ -1,5 +1,6 @@
 package main.java.com.examly.springappuser.model;
 
+
 public class User {
     
     private int userId;
